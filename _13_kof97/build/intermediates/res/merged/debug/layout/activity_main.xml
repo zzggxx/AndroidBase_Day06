@@ -1,0 +1,55 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity" >
+
+    <Button
+        android:onClick="zq"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="重拳" />
+
+    <Button
+        android:onClick="qq"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="轻拳" />
+
+    <Button
+        android:onClick="zj"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="重脚" />
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" >
+
+        <ImageView
+            android:id="@+id/iv_people"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/mr" />
+
+        <ImageView
+            android:id="@+id/iv_boss"
+            android:layout_marginTop="30dip"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:src="@drawable/boss" />
+
+        <ProgressBar
+            android:id="@+id/progressBar1"
+            style="?android:attr/progressBarStyleHorizontal"
+            android:layout_width="80dip"
+            android:layout_height="wrap_content"
+            android:max="100"
+            android:layout_alignParentRight="true"
+            android:layout_alignTop="@+id/iv_boss" />
+        
+    </RelativeLayout>
+
+</LinearLayout>

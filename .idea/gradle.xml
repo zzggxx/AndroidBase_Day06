@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="C:\AndroidStudio\android-studio\gradle\gradle-2.10" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/_01_多界面应用" />
+            <option value="$PROJECT_DIR$/_02_人品计算器" />
+            <option value="$PROJECT_DIR$/_03_人品计算器v2" />
+            <option value="$PROJECT_DIR$/_04_开启界面的两种方式" />
+            <option value="$PROJECT_DIR$/_05_其他的应用程序" />
+            <option value="$PROJECT_DIR$/_06_隐式意图" />
+            <option value="$PROJECT_DIR$/_07_版权所有" />
+            <option value="$PROJECT_DIR$/_08_短信分享" />
+            <option value="$PROJECT_DIR$/_09_短信助手" />
+            <option value="$PROJECT_DIR$/_10_Activity的生命周期v1" />
+            <option value="$PROJECT_DIR$/_11_短信助手v2" />
+            <option value="$PROJECT_DIR$/_12_qvod" />
+            <option value="$PROJECT_DIR$/_13_kof97" />
+            <option value="$PROJECT_DIR$/_14_启动模式singletop" />
+            <option value="$PROJECT_DIR$/_15_启动模式singletask" />
+            <option value="$PROJECT_DIR$/_16_启动模式singleinstance" />
+            <option value="$PROJECT_DIR$/test" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

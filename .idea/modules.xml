@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Day06.iml" filepath="$PROJECT_DIR$/Day06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_01_多界面应用/_01_多界面应用.iml" filepath="$PROJECT_DIR$/_01_多界面应用/_01_多界面应用.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_02_人品计算器/_02_人品计算器.iml" filepath="$PROJECT_DIR$/_02_人品计算器/_02_人品计算器.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_03_人品计算器v2/_03_人品计算器v2.iml" filepath="$PROJECT_DIR$/_03_人品计算器v2/_03_人品计算器v2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_04_开启界面的两种方式/_04_开启界面的两种方式.iml" filepath="$PROJECT_DIR$/_04_开启界面的两种方式/_04_开启界面的两种方式.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_05_其他的应用程序/_05_其他的应用程序.iml" filepath="$PROJECT_DIR$/_05_其他的应用程序/_05_其他的应用程序.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_06_隐式意图/_06_隐式意图.iml" filepath="$PROJECT_DIR$/_06_隐式意图/_06_隐式意图.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_07_版权所有/_07_版权所有.iml" filepath="$PROJECT_DIR$/_07_版权所有/_07_版权所有.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_08_短信分享/_08_短信分享.iml" filepath="$PROJECT_DIR$/_08_短信分享/_08_短信分享.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_09_短信助手/_09_短信助手.iml" filepath="$PROJECT_DIR$/_09_短信助手/_09_短信助手.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_10_Activity的生命周期v1/_10_Activity的生命周期v1.iml" filepath="$PROJECT_DIR$/_10_Activity的生命周期v1/_10_Activity的生命周期v1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_11_短信助手v2/_11_短信助手v2.iml" filepath="$PROJECT_DIR$/_11_短信助手v2/_11_短信助手v2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_12_qvod/_12_qvod.iml" filepath="$PROJECT_DIR$/_12_qvod/_12_qvod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_13_kof97/_13_kof97.iml" filepath="$PROJECT_DIR$/_13_kof97/_13_kof97.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_14_启动模式singletop/_14_启动模式singletop.iml" filepath="$PROJECT_DIR$/_14_启动模式singletop/_14_启动模式singletop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_15_启动模式singletask/_15_启动模式singletask.iml" filepath="$PROJECT_DIR$/_15_启动模式singletask/_15_启动模式singletask.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_16_启动模式singleinstance/_16_启动模式singleinstance.iml" filepath="$PROJECT_DIR$/_16_启动模式singleinstance/_16_启动模式singleinstance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
+    </modules>
+  </component>
+</project>
