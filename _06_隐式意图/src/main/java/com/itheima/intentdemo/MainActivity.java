@@ -23,6 +23,7 @@ public class MainActivity extends Activity {
 //		intent.setData(Uri.parse("itheima://afaf"));
 //		intent.setType("text/plain");
 		intent.setDataAndType(Uri.parse("itheima://afaf"), "text/plain");
+		intent.putExtra("body","我是隐式意图携带过来的数据");
 		startActivity(intent);
 	}
 
