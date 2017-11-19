@@ -7,6 +7,7 @@ import android.content.pm.ResolveInfo;
 import android.net.Uri;
 import android.os.Bundle;
 import android.view.View;
+import android.widget.Toast;
 
 public class MainActivity extends Activity {
 
@@ -35,4 +36,16 @@ public class MainActivity extends Activity {
 
     }
 
+    public void click1(View view) {
+        Intent intent = new Intent(this,MainActivity.class);
+        intent.putExtra("body","singleTopºÍsingleTaskµÄintent");
+        startActivity(intent);
+    }
+
+    @Override
+    protected void onNewIntent(Intent intent) {
+        super.onNewIntent(intent);
+
+        Toast.makeText(this,intent.getStringExtra("body"),Toast.LENGTH_SHORT).show();
+    }
 }
